@@ -1,0 +1,11 @@
+student_id,name,gender,age,major,math_score,english_score,science_score,attendance,study_hours
+S001,Andi,M,20,Informatics,78,85,80,90,12
+S002,Budi,M,21,Informatics,65,70,72,85,8
+S003,Citra,F,19,Statistics,88,90,92,95,15
+S004,Dina,F,20,Statistics,90,88,94,98,16
+S005,Eko,M,22,Physics,55,60,58,70,5
+S006,Fajar,M,21,Physics,60,65,63,75,6
+S007,Gita,F,20,Informatics,85,87,89,92,14
+S008,Hani,F,19,Physics,92,91,94,97,17
+S009,Iqbal,M,23,Statistics,70,68,72,80,9
+S010,Joko,M,20,Informatics,75,78,74,88,10
