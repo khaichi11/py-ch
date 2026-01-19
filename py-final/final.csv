@@ -1,0 +1,9 @@
+id,name,department,age,salary,experience,gender
+1,Ani,IT,25,8000000,2,F
+2,Budi,HR,30,6000000,5,M
+3,Citra,IT,28,9000000,4,F
+4,Dedi,Finance,35,10000000,8,M
+5,Eka,HR,29,,3,F
+6,Fajar,Finance,40,12000000,10,M
+7,Gita,IT,26,8500000,3,F
+8,Hadi,HR,33,6500000,6,M
